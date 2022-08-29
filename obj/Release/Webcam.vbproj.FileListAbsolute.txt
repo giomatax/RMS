@@ -1,0 +1,7 @@
+D:\###rec###\130314\Projects\Mag_Stripe\bin\DBCard.exe
+D:\###rec###\130314\Projects\Mag_Stripe\bin\DBCard.xml
+D:\###rec###\130314\Projects\Mag_Stripe\obj\Release\DBCard.Form1.resources
+D:\###rec###\130314\Projects\Mag_Stripe\obj\Release\DBCard.Form3.resources
+D:\###rec###\130314\Projects\Mag_Stripe\obj\Release\Webcam.vbproj.GenerateResource.Cache
+D:\###rec###\130314\Projects\Mag_Stripe\obj\Release\DBCard.exe
+D:\###rec###\130314\Projects\Mag_Stripe\obj\Release\DBCard.xml

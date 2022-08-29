@@ -1,0 +1,6 @@
+﻿14.07.2022 11:35:19;74
+14.07.2022 11:35:22;801
+14.07.2022 11:35:22;UPDATE dali_income   SET  ipay_amount='801'   WHERE dali_income_id='74';
+14.07.2022 11:35:57;74
+14.07.2022 11:35:59;800
+14.07.2022 11:35:59;UPDATE dali_income   SET  ipay_amount='800'   WHERE dali_income_id='74';

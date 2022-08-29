@@ -1,0 +1,114 @@
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\bin\Webcam.exe
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\bin\Webcam.pdb
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\bin\Webcam.xml
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\ResolveAssemblyReference.cache
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Webcam.Form1.resources
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Webcam.exe
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Webcam.xml
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Webcam.pdb
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\bin\Interop.ctlUSBHID.dll
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\bin\AxInterop.ctlUSBHID.dll
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Interop.ctlUSBHID.dll
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\AxInterop.ctlUSBHID.dll
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Webcam.vbproj.ResolveComReference.cache
+D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Webcam.Form3.resources
+C:\dddd\###rec###\060613\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Webcam.vbproj.ResolveComReference.cache
+C:\dddd\###rec###\060613\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Webcam.exe
+C:\dddd\###rec###\060613\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Webcam.xml
+C:\dddd\###rec###\060613\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Webcam.pdb
+C:\dddd\###rec###\060613\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Interop.ctlUSBHID.dll
+C:\dddd\###rec###\060613\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\AxInterop.ctlUSBHID.dll
+C:\dddd\###rec###\060613\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\bin\Webcam.exe
+C:\dddd\###rec###\060613\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\bin\Webcam.pdb
+C:\dddd\###rec###\060613\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\bin\Webcam.xml
+C:\dddd\###rec###\060613\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\bin\Interop.ctlUSBHID.dll
+C:\dddd\###rec###\060613\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\bin\AxInterop.ctlUSBHID.dll
+C:\dddd\###rec###\060613\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Webcam.Form1.resources
+C:\dddd\###rec###\060613\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Webcam.Form3.resources
+C:\dddd\###rec###\060613\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Webcam.vbproj.GenerateResource.Cache
+D:\###rec###\130314\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\Webcam.vbproj.GenerateResource.Cache
+D:\###rec###\130314\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\bin\DBCard.exe
+D:\###rec###\130314\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\bin\DBCard.pdb
+D:\###rec###\130314\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\bin\DBCard.xml
+D:\###rec###\130314\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\DBCard.Form1.resources
+D:\###rec###\130314\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\DBCard.Form3.resources
+D:\###rec###\130314\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\DBCard.exe
+D:\###rec###\130314\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\DBCard.xml
+D:\###rec###\130314\Projects\RFID_Gio\howto_net_video_capture\howto_net_video_capture\obj\Debug\DBCard.pdb
+D:\###rec###\130314\Projects\Mag_Stripe\bin\DBCard.exe.config
+D:\###rec###\130314\Projects\Mag_Stripe\bin\DBCard.exe
+D:\###rec###\130314\Projects\Mag_Stripe\bin\DBCard.pdb
+D:\###rec###\130314\Projects\Mag_Stripe\bin\DBCard.xml
+D:\###rec###\130314\Projects\Mag_Stripe\obj\Debug\DBCard.Form1.resources
+D:\###rec###\130314\Projects\Mag_Stripe\obj\Debug\DBCard.Form3.resources
+D:\###rec###\130314\Projects\Mag_Stripe\obj\Debug\Webcam.vbproj.GenerateResource.Cache
+D:\###rec###\130314\Projects\Mag_Stripe\obj\Debug\DBCard.exe
+D:\###rec###\130314\Projects\Mag_Stripe\obj\Debug\DBCard.xml
+D:\###rec###\130314\Projects\Mag_Stripe\obj\Debug\DBCard.pdb
+D:\###rec###\130314\Projects\Mag_Stripe\obj\Debug\Webcam.vbproj.ResolveComReference.cache
+D:\###rec###\130314\Projects\Mag_Stripe NEW\obj\Debug\Webcam.vbproj.ResolveComReference.cache
+D:\###rec###\130314\Projects\Mag_Stripe NEW\obj\Debug\DBCard.Form1.resources
+D:\###rec###\130314\Projects\Mag_Stripe NEW\obj\Debug\DBCard.Form3.resources
+D:\###rec###\130314\Projects\Mag_Stripe NEW\obj\Debug\Webcam.vbproj.GenerateResource.Cache
+D:\###rec###\130314\Projects\Mag_Stripe NEW\obj\Debug\DBCard.exe
+D:\###rec###\130314\Projects\Mag_Stripe NEW\obj\Debug\DBCard.xml
+D:\###rec###\130314\Projects\Mag_Stripe NEW\obj\Debug\DBCard.pdb
+D:\###rec###\130314\Projects\Mag_Stripe NEW\bin\DBCard.exe.config
+D:\###rec###\130314\Projects\Mag_Stripe NEW\bin\DBCard.exe
+D:\###rec###\130314\Projects\Mag_Stripe NEW\bin\DBCard.pdb
+D:\###rec###\130314\Projects\Mag_Stripe NEW\bin\DBCard.xml
+D:\###rec###\130314\Projects\Mag_Stripe 2021\obj\Debug\Webcam.vbproj.ResolveComReference.cache
+D:\###rec###\130314\Projects\Mag_Stripe 2021\obj\Debug\Webcam.vbproj.GenerateResource.Cache
+D:\###rec###\130314\Projects\Mag_Stripe 2021\bin\DBCardNew.exe.config
+D:\###rec###\130314\Projects\Mag_Stripe 2021\bin\DBCardNew.exe
+D:\###rec###\130314\Projects\Mag_Stripe 2021\bin\DBCardNew.pdb
+D:\###rec###\130314\Projects\Mag_Stripe 2021\bin\DBCardNew.xml
+D:\###rec###\130314\Projects\Mag_Stripe 2021\obj\Debug\DBCardNew.Form1.resources
+D:\###rec###\130314\Projects\Mag_Stripe 2021\obj\Debug\DBCardNew.Form3.resources
+D:\###rec###\130314\Projects\Mag_Stripe 2021\obj\Debug\DBCardNew.Resources.resources
+D:\###rec###\130314\Projects\Mag_Stripe 2021\obj\Debug\DBCardNew.exe
+D:\###rec###\130314\Projects\Mag_Stripe 2021\obj\Debug\DBCardNew.xml
+D:\###rec###\130314\Projects\Mag_Stripe 2021\obj\Debug\DBCardNew.pdb
+E:\net\RMS For Dali\Mag_Stripe 2021\obj\Debug\Webcam.vbproj.ResolveComReference.cache
+E:\net\RMS For Dali\Mag_Stripe 2021\obj\Debug\Webcam.vbproj.GenerateResource.Cache
+E:\net\RMS For Dali\Mag_Stripe 2021\bin\RMS.exe.config
+E:\net\RMS For Dali\Mag_Stripe 2021\bin\RMS.exe
+E:\net\RMS For Dali\Mag_Stripe 2021\bin\RMS.pdb
+E:\net\RMS For Dali\Mag_Stripe 2021\bin\RMS.xml
+E:\net\RMS For Dali\Mag_Stripe 2021\obj\Debug\RMS.Form1.resources
+E:\net\RMS For Dali\Mag_Stripe 2021\obj\Debug\RMS.Form3.resources
+E:\net\RMS For Dali\Mag_Stripe 2021\obj\Debug\RMS.Resources.resources
+E:\net\RMS For Dali\Mag_Stripe 2021\obj\Debug\RMS.PAY.resources
+E:\net\RMS For Dali\Mag_Stripe 2021\obj\Debug\RMS.exe
+E:\net\RMS For Dali\Mag_Stripe 2021\obj\Debug\RMS.xml
+E:\net\RMS For Dali\Mag_Stripe 2021\obj\Debug\RMS.pdb
+E:\net\RMS For Dali\Mag_Stripe 2021 - Copy\bin\RMS.exe.config
+E:\net\RMS For Dali\Mag_Stripe 2021 - Copy\bin\RMS.exe
+E:\net\RMS For Dali\Mag_Stripe 2021 - Copy\bin\RMS.pdb
+E:\net\RMS For Dali\Mag_Stripe 2021 - Copy\bin\RMS.xml
+E:\net\RMS For Dali\Mag_Stripe 2021 - Copy\obj\Debug\Webcam.vbproj.ResolveComReference.cache
+E:\net\RMS For Dali\Mag_Stripe 2021 - Copy\obj\Debug\RMS.Form1.resources
+E:\net\RMS For Dali\Mag_Stripe 2021 - Copy\obj\Debug\RMS.Form3.resources
+E:\net\RMS For Dali\Mag_Stripe 2021 - Copy\obj\Debug\RMS.Resources.resources
+E:\net\RMS For Dali\Mag_Stripe 2021 - Copy\obj\Debug\RMS.PAY.resources
+E:\net\RMS For Dali\Mag_Stripe 2021 - Copy\obj\Debug\Webcam.vbproj.GenerateResource.Cache
+E:\net\RMS For Dali\Mag_Stripe 2021 - Copy\obj\Debug\RMS.exe
+E:\net\RMS For Dali\Mag_Stripe 2021 - Copy\obj\Debug\RMS.xml
+E:\net\RMS For Dali\Mag_Stripe 2021 - Copy\obj\Debug\RMS.pdb
+E:\net\RMS For Dali\Mag_Stripe 2021 - Copy\obj\Debug\RMS.About.resources
+E:\net\RMS For Dali\RMS DALI\bin\RMS.exe.config
+E:\net\RMS For Dali\RMS DALI\bin\RMS.exe
+E:\net\RMS For Dali\RMS DALI\bin\RMS.pdb
+E:\net\RMS For Dali\RMS DALI\bin\RMS.xml
+E:\net\RMS For Dali\RMS DALI\obj\Debug\Webcam.vbproj.ResolveComReference.cache
+E:\net\RMS For Dali\RMS DALI\obj\Debug\RMS.About.resources
+E:\net\RMS For Dali\RMS DALI\obj\Debug\RMS.Form1.resources
+E:\net\RMS For Dali\RMS DALI\obj\Debug\RMS.Form3.resources
+E:\net\RMS For Dali\RMS DALI\obj\Debug\RMS.Resources.resources
+E:\net\RMS For Dali\RMS DALI\obj\Debug\RMS.PAY.resources
+E:\net\RMS For Dali\RMS DALI\obj\Debug\Webcam.vbproj.GenerateResource.Cache
+E:\net\RMS For Dali\RMS DALI\obj\Debug\RMS.exe
+E:\net\RMS For Dali\RMS DALI\obj\Debug\RMS.xml
+E:\net\RMS For Dali\RMS DALI\obj\Debug\RMS.pdb

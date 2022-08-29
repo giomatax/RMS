@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Webcam">
+</Property><Property Name="Solution File" Value="D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\Webcam.sln">
+</Property><Property Name="Date" Value="2013 წლის 23 04, სამშაბათი">
+</Property><Property Name="Time" Value="1:39">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Webcam.sln" Description="File successfully backed up as D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\Backup\Webcam.sln">
+</Event><Event ErrorLevel="0" Project="Webcam" Source="Webcam.vbproj" Description="Project file successfully backed up as D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\Backup\Webcam.vbproj">
+</Event><Event ErrorLevel="0" Project="Webcam" Source="Webcam.vbproj.user" Description="Project user file successfully backed up as D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\Backup\Webcam.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Webcam" Source="AssemblyInfo.vb" Description="File successfully backed up as D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Webcam" Source="Form1.vb" Description="File successfully backed up as D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Webcam" Source="Form1.resx" Description="File successfully backed up as D:\SaqCabel\RFID_Gio\howto_net_video_capture\howto_net_video_capture\Backup\Form1.resx">
+</Event><Event ErrorLevel="1" Project="Webcam" Source="Webcam.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Webcam" Source="Webcam.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Webcam" Source="Webcam.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Webcam.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Webcam.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Webcam" Source="Webcam.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,23 @@
+﻿06.06.2022 12:49:12;syntax error at end of input
+06.06.2022 13:05:09;null value in column "isactive" violates not-null constraint
+06.06.2022 13:06:18;column "y" does not exist
+07.06.2022 10:52:53;invalid input syntax for type numeric: ""
+07.06.2022 13:47:46;Parameter '47' is missing
+07.06.2022 13:47:49;Parameter '47' is missing
+07.06.2022 13:48:49;Parameter '48' is missing
+13.06.2022 10:22:14;date/time field value out of range: "6/13/2022 10:22:10 AM"
+21.06.2022 09:41:08;invalid input syntax for type numeric: ""
+21.06.2022 10:18:01;invalid input syntax for type numeric: ""
+21.06.2022 13:49:03;INSERT INTO dali_income( dali_company_id,icompany_name,itax_id,ipay_day,ipay_amount,cstart_day,cend_day,isactive,alertday)  VALUES ('12', 'ტესტ','ტესტ','12','23','2022-06-21','2022-06-21','Y','2');
+21.06.2022 13:49:04;წარმატებულად დაემატა კომპანია
+21.06.2022 15:11:57;INSERT INTO dali_income( dali_company_id,icompany_name,itax_id,ipay_day,ipay_amount,cstart_day,cend_day,isactive,alertday)  VALUES ('12', '2','2','11','12.5','2022-06-21','2022-06-21','Y','1');
+21.06.2022 15:11:59;წარმატებულად დაემატა კომპანია
+21.06.2022 15:12:41;INSERT INTO dali_income( dali_company_id,icompany_name,itax_id,ipay_day,ipay_amount,cstart_day,cend_day,isactive,alertday)  VALUES ('12', '343434','343434','33','12323.54','2022-06-21','2022-06-21','Y','3');
+21.06.2022 15:12:42;წარმატებულად დაემატა კომპანია
+21.06.2022 15:27:01;INSERT INTO dali_income( dali_company_id,icompany_name,itax_id,ipay_day,ipay_amount,cstart_day,cend_day,isactive,alertday)  VALUES ('12', '2323','2323','15','2323.69','2022-06-21','2022-06-21','Y','1');
+21.06.2022 15:27:03;წარმატებულად დაემატა კომპანია
+21.06.2022 17:22:16;invalid input syntax for type numeric: ""
+21.06.2022 17:22:17;INSERT INTO dali_income( dali_company_id,icompany_name,itax_id,ipay_day,ipay_amount,cstart_day,cend_day,isactive,alertday)  VALUES ('12', '','','','','2022-06-21','2022-06-21','Y','');
+21.06.2022 17:22:18;წარმატებულად დაემატა კომპანია
+21.06.2022 17:46:21;INSERT INTO dali_income( dali_company_id,icompany_name,itax_id,ipay_day,ipay_amount,cstart_day,cend_day,isactive,alertday)  VALUES ('12', '2','2','1','1','2022-06-21','2022-06-21','Y','1');
+21.06.2022 17:46:22;წარმატებულად დაემატა კომპანია
